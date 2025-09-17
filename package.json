@@ -1,0 +1,24 @@
+{
+  "name": "passport-roblox",
+  "version": "0.0.2",
+  "description": "Passport strategy for [Roblox](https://roblox.com)",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExeLuke666/passport-roblox.git"
+  },
+  "keywords": [
+    "passport",
+    "passportjs",
+    "roblox",
+    "strategy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth2": "^1.6.1"
+  }
+}
